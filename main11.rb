@@ -2,8 +2,8 @@
 
 str1 = "Ruby"
 str2 = "Language"
-# puts str1
-# puts str2
+puts str1
+puts str2
 
 puts "This is: #{str1}"
 
